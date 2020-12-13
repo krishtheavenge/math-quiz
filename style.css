@@ -40,3 +40,15 @@ text-align: left;
 	color: white;
 	background-color: blue;
 }
+#player1_score{
+	color: white;
+}
+#player2_score{
+	color: white;
+}
+#player1_name{
+	color: white;
+}
+#player2_name{
+	color: white;
+}
